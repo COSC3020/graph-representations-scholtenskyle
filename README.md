@@ -19,3 +19,12 @@ most important part. Add your answer to this markdown file.
 
 Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
+
+
+Both of the functions written have a runtime complexity of $$O(n^2)$$. This is because both functions are relatively simple, with only nested loops having the ability to actually affect the runtime. These nested loops of course have the time complexity of $$n^2$$. In both instances, they are dependent on the number of vertices within the graph.
+
+https://www.geeksforgeeks.org/convert-adjacency-matrix-to-adjacency-list-representation-of-graph/
+
+I used the source above to understand more about what the question was asking, and what the code was expected to do.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
